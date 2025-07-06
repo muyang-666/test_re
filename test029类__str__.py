@@ -14,7 +14,7 @@ class Person:
         print(f'{self.name} 大餐一顿, 体重增加了')
         self.weight += 1
 
-        
+
 xm = Person('小明',75.0)
 print(xm)
 xm.run()
